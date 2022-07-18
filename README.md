@@ -2,7 +2,7 @@
 ![email_photo](https://user-images.githubusercontent.com/47813514/179619681-a74c34ce-fe57-4945-a13b-52936caece55.jpeg)
 
 
-The process is described bellow:
+The process is described below:
 - I first created a nodejs app
 - Then installed nodemailer, express, nodemon, body-parser npm packages
 - I then copied the code snipet from nodemailer documentation page
